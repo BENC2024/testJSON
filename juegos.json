@@ -1,0 +1,212 @@
+[
+   {
+      "idJuego": 1,
+      "nombre": "Demon's Souls",
+      "descripcion": "AAA",
+      "genero": "Acción/RPG",
+      "fechaLanzamiento": "2020-11-12"
+   },
+   {
+      "idJuego": 2,
+      "nombre": "Spider-Man: Miles Morales",
+      "descripcion": "BBB",
+      "genero": "Acción/Aventura",
+      "fechaLanzamiento": "2020-11-12"
+   },
+   {
+      "idJuego": 3,
+      "nombre": "Halo Infinite",
+      "descripcion": "CCC",
+      "genero": "Shooter",
+      "fechaLanzamiento": "2021-12-08"
+   },
+   {
+      "idJuego": 4,
+      "nombre": "Forza Horizon 4",
+      "descripcion": "DDD",
+      "genero": "Conducción",
+      "fechaLanzamiento": "2018-10-02"
+   },
+   {
+      "idJuego": 5,
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "descripcion": "EEE",
+      "genero": "Aventura",
+      "fechaLanzamiento": "2017-03-03"
+   },
+   {
+      "idJuego": 6,
+      "nombre": "Super Mario Odyssey",
+      "descripcion": "FFF",
+      "genero": "Plataformas",
+      "fechaLanzamiento": "2017-10-27"
+   },
+   {
+      "idJuego": 7,
+      "nombre": "Counter-Strike: Global Offensive",
+      "descripcion": "GGG",
+      "genero": "FPS",
+      "fechaLanzamiento": "2012-08-21"
+   },
+   {
+      "idJuego": 8,
+      "nombre": "The Witcher 3: Wild Hunt",
+      "descripcion": "HHH",
+      "genero": "RPG",
+      "fechaLanzamiento": "2015-05-19"
+   },
+   {
+      "idJuego": 9,
+      "nombre": "Beat Saber",
+      "descripcion": "III",
+      "genero": "Música/VR",
+      "fechaLanzamiento": "2018-11-20"
+   },
+   {
+      "idJuego": 10,
+      "nombre": "Superhot VR",
+      "descripcion": "JJJ",
+      "genero": "FPS/VR",
+      "fechaLanzamiento": "2016-12-05"
+   },
+   {
+      "idJuego": 11,
+      "nombre": "The Last of Us Part II",
+      "descripcion": "KKK",
+      "genero": "Acción/Aventura",
+      "fechaLanzamiento": "2020-06-19"
+   },
+   {
+      "idJuego": 12,
+      "nombre": "God of War",
+      "descripcion": "LLL",
+      "genero": "Acción/Aventura",
+      "fechaLanzamiento": "2018-04-20"
+   },
+   {
+      "idJuego": 13,
+      "nombre": "Gears 5",
+      "descripcion": "MMM",
+      "genero": "Shooter",
+      "fechaLanzamiento": "2019-09-10"
+   },
+   {
+      "idJuego": 14,
+      "nombre": "Red Dead Redemption 2",
+      "descripcion": "NNN",
+      "genero": "Acción/Aventura",
+      "fechaLanzamiento": "2018-10-26"
+   },
+   {
+      "idJuego": 15,
+      "nombre": "The Legend of Zelda: Ocarina of Time 3D",
+      "descripcion": "OOO",
+      "genero": "Aventura",
+      "fechaLanzamiento": "2011-06-16"
+   },
+   {
+      "idJuego": 16,
+      "nombre": "Super Mario 3D Land",
+      "descripcion": "PPP",
+      "genero": "Plataformas",
+      "fechaLanzamiento": "2011-11-13"
+   },
+   {
+      "idJuego": 17,
+      "nombre": "Sonic the Hedgehog",
+      "descripcion": "QQQ",
+      "genero": "Plataformas",
+      "fechaLanzamiento": "1991-06-23"
+   },
+   {
+      "idJuego": 18,
+      "nombre": "Streets of Rage 2",
+      "descripcion": "RRR",
+      "genero": "Beat 'em up",
+      "fechaLanzamiento": "1992-12-20"
+   },
+   {
+      "idJuego": 19,
+      "nombre": "Missile Command: Recharged",
+      "descripcion": "SSS",
+      "genero": "Arcade",
+      "fechaLanzamiento": "2020-05-27"
+   },
+   {
+      "idJuego": 20,
+      "nombre": "Centipede: Recharged",
+      "descripcion": "TTT",
+      "genero": "Arcade",
+      "fechaLanzamiento": "2020-09-29"
+   },
+   {
+      "idJuego": 21,
+      "nombre": "Animal Crossing: New Horizons",
+      "descripcion": "UUU",
+      "genero": "Simulación",
+      "fechaLanzamiento": "2020-03-20"
+   },
+   {
+      "idJuego": 22,
+      "nombre": "The Legend of Zelda: Link's Awakening",
+      "descripcion": "VVV",
+      "genero": "Aventura",
+      "fechaLanzamiento": "2019-09-20"
+   },
+   {
+      "idJuego": 23,
+      "nombre": "Beat Saber",
+      "descripcion": "WWW",
+      "genero": "Música/VR",
+      "fechaLanzamiento": "2018-11-20"
+   },
+   {
+      "idJuego": 24,
+      "nombre": "Resident Evil 7: Biohazard",
+      "descripcion": "XXX",
+      "genero": "Survival Horror",
+      "fechaLanzamiento": "2017-01-24"
+   },
+   {
+      "idJuego": 25,
+      "nombre": "FIFA 21",
+      "descripcion": "YYY",
+      "genero": "Deportes",
+      "fechaLanzamiento": "2020-10-09"
+   },
+   {
+      "idJuego": 26,
+      "nombre": "Fortnite",
+      "descripcion": "ZZZ",
+      "genero": "Battle Royale",
+      "fechaLanzamiento": "2017-07-25"
+   },
+   {
+      "idJuego": 27,
+      "nombre": "Metal Slug",
+      "descripcion": "ABC",
+      "genero": "Run and Gun",
+      "fechaLanzamiento": "1996-04-18"
+   },
+   {
+      "idJuego": 28,
+      "nombre": "King of Fighters '98",
+      "descripcion": "DEF",
+      "genero": "Lucha",
+      "fechaLanzamiento": "1998-07-23"
+   },
+   {
+      "idJuego": 29,
+      "nombre": "Cornhole",
+      "descripcion": "GHI",
+      "genero": "Deportes",
+      "fechaLanzamiento": "2020-06-02"
+   },
+   {
+      "idJuego": 30,
+      "nombre": "Finnegan Fox",
+      "descripcion": "JKL",
+      "genero": "Plataformas",
+      "fechaLanzamiento": "2021-06-22"
+   }
+]
