@@ -1,0 +1,110 @@
+[
+   {
+      "idGenero": 1,
+      "descripcion": "Acción/RPG",
+      "anoAparicion": 2000,
+      "caracteristicasTipicas": "Combina elementos de acción y RPG, permitiendo al jugador mejorar las habilidades del personaje a medida que avanza en la historia."
+   },
+   {
+      "idGenero": 2,
+      "descripcion": "Shooter",
+      "anoAparicion": 1990,
+      "caracteristicasTipicas": "Enfocado en la acción de disparos, donde el jugador utiliza diversas armas para derrotar a enemigos y superar desafíos."
+   },
+   {
+      "idGenero": 3,
+      "descripcion": "Conducción",
+      "anoAparicion": 1985,
+      "caracteristicasTipicas": "Juegos centrados en la conducción de vehículos, ya sea realista o arcade, con énfasis en la velocidad y la destreza del jugador."
+   },
+   {
+      "idGenero": 4,
+      "descripcion": "Aventura",
+      "anoAparicion": 1980,
+      "caracteristicasTipicas": "Historias envolventes con énfasis en la exploración, resolución de acertijos y desarrollo de la trama a lo largo del juego."
+   },
+   {
+      "idGenero": 5,
+      "descripcion": "FPS",
+      "anoAparicion": 1992,
+      "caracteristicasTipicas": "Juegos de disparos en primera persona, donde el jugador ve el mundo desde la perspectiva del personaje y se enfrenta a enemigos con diversas armas."
+   },
+   {
+      "idGenero": 6,
+      "descripcion": "RPG",
+      "anoAparicion": 1987,
+      "caracteristicasTipicas": "Enfocado en la progresión del personaje a través de la toma de decisiones y la mejora de habilidades, con narrativas ricas y mundos expansivos."
+   },
+   {
+      "idGenero": 7,
+      "descripcion": "FPS/VR",
+      "anoAparicion": 2016,
+      "caracteristicasTipicas": "Juegos de disparos en primera persona diseñados específicamente para la realidad virtual, brindando una experiencia inmersiva."
+   },
+   {
+      "idGenero": 8,
+      "descripcion": "Acción/Aventura",
+      "anoAparicion": 1995,
+      "caracteristicasTipicas": "Combina elementos de acción y aventura, con una narrativa sólida y la resolución de desafíos mediante habilidades del jugador."
+   },
+   {
+      "idGenero": 9,
+      "descripcion": "Plataformas",
+      "anoAparicion": 1983,
+      "caracteristicasTipicas": "Juegos centrados en el movimiento del personaje a través de plataformas, enfrentando obstáculos y enemigos mientras busca objetivos."
+   },
+   {
+      "idGenero": 10,
+      "descripcion": "Beat 'em up",
+      "anoAparicion": 1987,
+      "caracteristicasTipicas": "Juegos de acción en los que el jugador se enfrenta a hordas de enemigos cuerpo a cuerpo, utilizando ataques físicos para avanzar."
+   },
+   {
+      "idGenero": 11,
+      "descripcion": "Arcade",
+      "anoAparicion": 1972,
+      "caracteristicasTipicas": "Juegos diseñados para recreativas, con énfasis en la rapidez y la competencia, generalmente con partidas cortas y puntuaciones altas."
+   },
+   {
+      "idGenero": 12,
+      "descripcion": "Simulación",
+      "anoAparicion": 1980,
+      "caracteristicasTipicas": "Recrea situaciones de la vida real o ficción de manera realista, permitiendo a los jugadores experimentar diversas actividades."
+   },
+   {
+      "idGenero": 13,
+      "descripcion": "Música/VR",
+      "anoAparicion": 2014,
+      "caracteristicasTipicas": "Juegos musicales diseñados para realidad virtual, donde los jugadores interactúan con la música de maneras creativas y envolventes."
+   },
+   {
+      "idGenero": 14,
+      "descripcion": "Survival Horror",
+      "anoAparicion": 1996,
+      "caracteristicasTipicas": "Enfrenta a los jugadores a situaciones aterradoras con recursos limitados, fomentando la supervivencia y la gestión del miedo."
+   },
+   {
+      "idGenero": 15,
+      "descripcion": "Deportes",
+      "anoAparicion": 1972,
+      "caracteristicasTipicas": "Simula deportes reales o ficticios, permitiendo a los jugadores participar en competiciones y torneos."
+   },
+   {
+      "idGenero": 16,
+      "descripcion": "Battle Royale",
+      "anoAparicion": 2017,
+      "caracteristicasTipicas": "Juegos multijugador masivos donde los jugadores compiten hasta que solo queda un participante o equipo en pie."
+   },
+   {
+      "idGenero": 17,
+      "descripcion": "Run and Gun",
+      "anoAparicion": 1987,
+      "caracteristicasTipicas": "Combina la acción de correr y disparar, con énfasis en la velocidad y la habilidad del jugador para esquivar enemigos y proyectiles."
+   },
+   {
+      "idGenero": 18,
+      "descripcion": "Lucha",
+      "anoAparicion": 1987,
+      "caracteristicasTipicas": "Enfrenta a dos o más personajes en combate mano a mano, con una variedad de movimientos y estilos de lucha."
+   }
+]
