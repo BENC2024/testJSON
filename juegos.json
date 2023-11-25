@@ -1,212 +1,182 @@
 [
    {
-      "idJuego": 1,
       "nombre": "Demon's Souls",
       "descripcion": "AAA",
-      "genero_id": 1,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d25" },
       "fechaLanzamiento": "2020-11-12"
    },
    {
-      "idJuego": 2,
       "nombre": "Spider-Man: Miles Morales",
       "descripcion": "BBB",
-      "genero_id": 8,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2c" },
       "fechaLanzamiento": "2020-11-12"
    },
    {
-      "idJuego": 3,
       "nombre": "Halo Infinite",
       "descripcion": "CCC",
-      "genero_id": 2,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d26" },
       "fechaLanzamiento": "2021-12-08"
    },
    {
-      "idJuego": 4,
       "nombre": "Forza Horizon 4",
       "descripcion": "DDD",
-      "genero_id": 3,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d27" },
       "fechaLanzamiento": "2018-10-02"
    },
    {
-      "idJuego": 5,
       "nombre": "The Legend of Zelda: Breath of the Wild",
       "descripcion": "EEE",
-      "genero_id": 4,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d28" },
       "fechaLanzamiento": "2017-03-03"
    },
    {
-      "idJuego": 6,
       "nombre": "Super Mario Odyssey",
       "descripcion": "FFF",
-      "genero_id": 9,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2d" },
       "fechaLanzamiento": "2017-10-27"
    },
    {
-      "idJuego": 7,
       "nombre": "Counter-Strike: Global Offensive",
       "descripcion": "GGG",
-      "genero_id": 5,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d29" },
       "fechaLanzamiento": "2012-08-21"
    },
    {
-      "idJuego": 8,
       "nombre": "The Witcher 3: Wild Hunt",
       "descripcion": "HHH",
-      "genero_id": 6,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2a" },
       "fechaLanzamiento": "2015-05-19"
    },
    {
-      "idJuego": 9,
       "nombre": "Beat Saber",
       "descripcion": "III",
-      "genero_id": 13,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d31" },
       "fechaLanzamiento": "2018-11-20"
    },
    {
-      "idJuego": 10,
       "nombre": "Superhot VR",
       "descripcion": "JJJ",
-      "genero_id": 7,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2b" },
       "fechaLanzamiento": "2016-12-05"
    },
    {
-      "idJuego": 11,
       "nombre": "The Last of Us Part II",
       "descripcion": "KKK",
-      "genero_id": 8,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2c" },
       "fechaLanzamiento": "2020-06-19"
    },
    {
-      "idJuego": 12,
       "nombre": "God of War",
       "descripcion": "LLL",
-      "genero_id": 8,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2c" },
       "fechaLanzamiento": "2018-04-20"
    },
    {
-      "idJuego": 13,
       "nombre": "Gears 5",
       "descripcion": "MMM",
-      "genero_id": 2,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d26" },
       "fechaLanzamiento": "2019-09-10"
    },
    {
-      "idJuego": 14,
       "nombre": "Red Dead Redemption 2",
       "descripcion": "NNN",
-      "genero_id": 8,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2c" },
       "fechaLanzamiento": "2018-10-26"
    },
    {
-      "idJuego": 15,
       "nombre": "The Legend of Zelda: Ocarina of Time 3D",
       "descripcion": "OOO",
-      "genero_id": 4,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d28" },
       "fechaLanzamiento": "2011-06-16"
    },
    {
-      "idJuego": 16,
       "nombre": "Super Mario 3D Land",
       "descripcion": "PPP",
-      "genero_id": 9,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2d" },
       "fechaLanzamiento": "2011-11-13"
    },
    {
-      "idJuego": 17,
       "nombre": "Sonic the Hedgehog",
       "descripcion": "QQQ",
-      "genero_id": 9,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2d" },
       "fechaLanzamiento": "1991-06-23"
    },
    {
-      "idJuego": 18,
       "nombre": "Streets of Rage 2",
       "descripcion": "RRR",
-      "genero_id": 10,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2e" },
       "fechaLanzamiento": "1992-12-20"
    },
    {
-      "idJuego": 19,
       "nombre": "Missile Command: Recharged",
       "descripcion": "SSS",
-      "genero_id": 11,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2f" },
       "fechaLanzamiento": "2020-05-27"
    },
    {
-      "idJuego": 20,
       "nombre": "Centipede: Recharged",
       "descripcion": "TTT",
-      "genero_id": 11,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2f" },
       "fechaLanzamiento": "2020-09-29"
    },
    {
-      "idJuego": 21,
       "nombre": "Animal Crossing: New Horizons",
       "descripcion": "UUU",
-      "genero_id": 12,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d30" },
       "fechaLanzamiento": "2020-03-20"
    },
    {
-      "idJuego": 22,
       "nombre": "The Legend of Zelda: Link's Awakening",
       "descripcion": "VVV",
-      "genero_id": 4,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d28" },
       "fechaLanzamiento": "2019-09-20"
    },
    {
-      "idJuego": 23,
       "nombre": "Beat Saber",
       "descripcion": "WWW",
-      "genero_id": 13,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d31" },
       "fechaLanzamiento": "2018-11-20"
    },
    {
-      "idJuego": 24,
       "nombre": "Resident Evil 7: Biohazard",
       "descripcion": "XXX",
-      "genero_id": 14,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d32" },
       "fechaLanzamiento": "2017-01-24"
    },
    {
-      "idJuego": 25,
       "nombre": "FIFA 21",
       "descripcion": "YYY",
-      "genero_id": 15,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d33" },
       "fechaLanzamiento": "2020-10-09"
    },
    {
-      "idJuego": 26,
       "nombre": "Fortnite",
       "descripcion": "ZZZ",
-      "genero_id": 16,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d34" },
       "fechaLanzamiento": "2017-07-25"
    },
    {
-      "idJuego": 27,
       "nombre": "Metal Slug",
       "descripcion": "ABC",
-      "genero_id": 17,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d35" },
       "fechaLanzamiento": "1996-04-18"
    },
    {
-      "idJuego": 28,
       "nombre": "King of Fighters '98",
       "descripcion": "DEF",
-      "genero_id": 18,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d36" },
       "fechaLanzamiento": "1998-07-23"
    },
    {
-      "idJuego": 29,
       "nombre": "Cornhole",
       "descripcion": "GHI",
-      "genero_id": 15,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d33" },
       "fechaLanzamiento": "2020-06-02"
    },
    {
-      "idJuego": 30,
       "nombre": "Finnegan Fox",
       "descripcion": "JKL",
-      "genero_id": 9,
+      "genero_id": { "$oid": "65613c7664cd0ad3959c3d2d" },
       "fechaLanzamiento": "2021-06-22"
    }
 ]
